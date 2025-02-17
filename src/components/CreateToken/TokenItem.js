@@ -2,6 +2,8 @@
 import React from 'react';
 import { useState, useEffect } from 'react';
 
+import feeInfo from './FeeInfo.js'
+
 //Style
 import { makeStyles } from '@material-ui/core/styles';
 import Loader from '../Loader/Loader.js';
