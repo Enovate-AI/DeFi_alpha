@@ -31,8 +31,8 @@ Before running this project locally, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/CTO-hub/Exchange_Dev.git
-   cd Exchange_Dev
+   git clone https://github.com/PM-hubs/DeFi_starter.git
+   cd DeFi_starter
    ```
 
 2. **Install dependencies**:
