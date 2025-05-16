@@ -31,7 +31,7 @@ Before running this project locally, ensure you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Chief-hub/DeFi_alpha.git
+   git clone https://github.com/GO-WFO-Chief/DeFi-alpha.git
    cd DeFi_alpha
    ```
 
